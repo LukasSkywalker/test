@@ -1,2 +1,0 @@
-echo "Foo"
-echo "ggg"
